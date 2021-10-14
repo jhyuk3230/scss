@@ -1,0 +1,1 @@
+.box{height:100vh;position:relative}.box a{width:100%;font-size:0;position:absolute;left:0;top:50%;transform:translateY(-50%)}.box a p{font-size:16px;font-weight:500;color:#000}.box:hover a p{color:red}
